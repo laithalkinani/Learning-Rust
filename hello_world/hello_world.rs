@@ -11,4 +11,6 @@ they don't even need to have rust installed
 to run this on windows, type in the command terminal: 
 ./hello_world
 
+Next we'll learn about cargo dependencies
+
 */
